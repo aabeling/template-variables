@@ -1,0 +1,6 @@
+just a small eclipse plugin project which
+defines a new TemplateVariableResolver.
+
+Others may find it useful as a starting point.
+
+http://www.linuxtopia.org/online_books/eclipse_documentation/eclipse_platform_plug-in_developer_guide/topic/org.eclipse.platform.doc.isv/reference/extension-points/eclipse_platform_plugin_org_eclipse_ui_editors_templates.html
