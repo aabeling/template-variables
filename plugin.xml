@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.editors.templates">
+         
+         <resolver
+               class="de.banapple.eclipse.plugins.templates.resolver.ArgumentsDebugStringResolver"
+               contextTypeId="java"
+               type="log_arguments"
+               description="a list of all method arguments with slf4j placeholders">
+         </resolver>
+         
+   </extension>
+
+</plugin>
